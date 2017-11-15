@@ -1,0 +1,1 @@
+Game Result: {"data":{"correctWordCount":76,"score":1316,"datetime":"2017-11-13 01:19:59","totalWordCount":80,"sessionId":"17ebaefdb0e7be96853fa4053961f8a2","playerId":"1010248599@qq.com","totalWrongGuessCount":204},"sessionId":"17ebaefdb0e7be96853fa4053961f8a2","message":"GAME OVER"}
